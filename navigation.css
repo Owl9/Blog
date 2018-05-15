@@ -65,4 +65,14 @@
   max-width: 100%;
 }
 
+/*Headings and Titles*/
+p.title
+{
+  font-family: calibri;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+/*Body styles*/
+
 
