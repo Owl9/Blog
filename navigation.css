@@ -68,7 +68,7 @@
 
 
 /*Headings and Titles*/
-p.title
+#title
 {
   font-family: "calibri", serif;
   font-size: 50px;
